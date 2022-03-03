@@ -1,0 +1,8 @@
+sn\minfinances\dao\IRoles.class
+sn\minfinances\dao\IUser.class
+sn\minfinances\controller\LoginController.class
+sn\minfinances\entities\Roles.class
+sn\minfinances\entities\User.class
+sn\minfinances\controller\UserController.class
+sn\minfinances\EvalsecurrityApplication.class
+sn\minfinances\security\SecurityConfig.class
